@@ -7,3 +7,6 @@
 * [Aula 01](./Aula01//) (03/08) 
     - Apresentação da Disciplina
     - Mão na massa Python
+* [Aula 02](./Aula02//) (11/08) 
+    - Python - A Revanche
+    - Manipulação e Preparação de Dados
