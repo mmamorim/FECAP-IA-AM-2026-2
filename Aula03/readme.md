@@ -9,4 +9,5 @@ Introdução ao Aprendizado Supervisionado
     - Avaliando o modelo
 ---
 
+[Dataset Notas de Alunos](./notas_estudo.csv)
 [Código Python da aula](./aula03.ipynb)
