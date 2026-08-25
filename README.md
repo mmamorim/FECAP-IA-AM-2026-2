@@ -15,3 +15,6 @@
     - Scikit-Learn
     - Regressão polinomial  
     - Avaliando o modelo
+* [Aula 04](./Aula04/) (25/08) 
+    - Modelando um Agente Preditor de Consumo
+    - Regressão aplicada a dados reais — Atividade em duplas
