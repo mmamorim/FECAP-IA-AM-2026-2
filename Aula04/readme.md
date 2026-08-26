@@ -12,3 +12,6 @@
 * Apresentação da Missão [Aula04_Desafio-v3.pdf](./Aula04_Desafio-v3.pdf)
 * Dataset [mpg_desafio_alunos.csv](./mpg_desafio_alunos.csv)
 * [Código Python da aula](./aula04.ipynb)
+
+* Dataset [mpg_desafio_final.csv](./mpg_desafio_final.csv)
+* Desafio Final [Desafio-Final.pdf](./Desafio-Final.pdf)
