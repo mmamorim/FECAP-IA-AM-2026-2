@@ -15,3 +15,5 @@
 
 * Dataset [mpg_desafio_final.csv](./mpg_desafio_final.csv)
 * Desafio Final [Desafio-Final.pdf](./Desafio-Final.pdf)
+
+* [Código Python Gabarito](./Desafio_Regressao_Gabarito.ipynb)
