@@ -22,7 +22,7 @@
     - Aprendizado Supervisionado — Classificação
     - Regressão Logística
     - KNN
-* [Aula 06](./Aula05/) (01/09) 
+* [Aula 06](./Aula06/) (01/09) 
     - Aprendizado Supervisionado — Classificação
     - Árvore de Decisão
     - Random Forest
