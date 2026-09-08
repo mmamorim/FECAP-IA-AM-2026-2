@@ -18,3 +18,11 @@
 * [Aula 04](./Aula04/) (25/08) 
     - Modelando um Agente Preditor de Consumo
     - Regressão aplicada a dados reais — Atividade em duplas
+* [Aula 05](./Aula05/) (01/09) 
+    - Aprendizado Supervisionado — Classificação
+    - Regressão Logística
+    - KNN
+* [Aula 06](./Aula05/) (01/09) 
+    - Aprendizado Supervisionado — Classificação
+    - Árvore de Decisão
+    - Random Forest
