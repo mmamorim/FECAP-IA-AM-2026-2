@@ -22,7 +22,12 @@
     - Aprendizado Supervisionado — Classificação
     - Regressão Logística
     - KNN
-* [Aula 06](./Aula06/) (01/09) 
+* [Aula 06](./Aula06/) (08/09) 
     - Aprendizado Supervisionado — Classificação
     - Árvore de Decisão
     - Random Forest
+* AJUDA PROJETO PI (15/09)
+* AVALIAÇÃO N1 (22/09)
+* [Aula 07](./Aula07/) (29/09) 
+    - Introdução a Redes Neurais Artificiais
+    - Prática usando Scikit-Learn
