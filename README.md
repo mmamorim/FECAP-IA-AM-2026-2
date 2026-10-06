@@ -31,3 +31,5 @@
 * [Aula 07](./Aula07/) (29/09) 
     - Introdução a Redes Neurais Artificiais
     - Prática usando Scikit-Learn
+* [Aula 08](./Aula08/) (06/10) 
+    - Redes Neurais - A Revanche
