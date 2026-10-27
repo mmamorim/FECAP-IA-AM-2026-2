@@ -33,6 +33,9 @@
     - Prática usando Scikit-Learn
 * [Aula 08](./Aula08/) (06/10) 
     - Redes Neurais - A Revanche
-* [Aula 09](./Aula09/) (10/10) 
+* [Aula 09](./Aula09/) (20/10) 
     - Rede densa e rede convolucional [Slides](./Aula09/Keras_MNIST_Slides.pdf)
     - [Código Python da aula](./Aula09/Keras_MNIST_Aluno.ipynb)
+* [Aula 10](./Aula10/) (27/10) 
+    - Rede densa e rede convolucional - A Revanche [Slides](./Aula10/)
+    - [Código Python da aula](./Aula10)
