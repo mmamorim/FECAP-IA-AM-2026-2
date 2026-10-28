@@ -10,3 +10,4 @@
 
 * [Enunciado Tutorial](./Tutorial_CNN_Flores.pdf)
 * [Código Python Tutorial](./Tutorial_CNN_Flores.ipynb)
+* [Formulário Questionário Atividade](https://forms.gle/uGh9wpP3uH5DdGwY8)

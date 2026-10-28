@@ -37,5 +37,8 @@
     - Rede densa e rede convolucional [Slides](./Aula09/Keras_MNIST_Slides.pdf)
     - [Código Python da aula](./Aula09/Keras_MNIST_Aluno.ipynb)
 * [Aula 10](./Aula10/) (27/10) 
-    - Rede densa e rede convolucional - A Revanche [Slides](./Aula10/)
-    - [Código Python da aula](./Aula10)
+    - Rede densa e rede convolucional - A Revanche [Slides](./Aula10/Gatos_Cachorros_CNN_Slides-v2.pdf)
+    - **Prática**
+    - [Enunciado Tutorial](./Aula10/Tutorial_CNN_Flores.pdf)
+    - [Código Python Tutorial](./Aula10/Tutorial_CNN_Flores.ipynb)
+    - [Formulário Questionário Atividade](https://forms.gle/uGh9wpP3uH5DdGwY8)
